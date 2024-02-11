@@ -8,7 +8,7 @@ const Home = () => {
         className={`w-2 ${
           isSideMenu ? "w-2" : "flex-[0.2] xl:flex-[0.4]"
         } min-h-screen 
-      max-h-screen relative bg-secondary`}
+      max-h-screen relative text-white p-2 bg-secondary`}
       >
         Home
       </div>
